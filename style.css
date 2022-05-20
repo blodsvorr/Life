@@ -1,7 +1,11 @@
+body {
+	background-color: #1d1b25 ;
+}
+
 #windowOfLife {
 	font-family: monospace ;
 	background-color: #1d1b25 ;
 	color: #9c9aff ;
 	font-size: 6pt ;
-	line-height: 1.1em ;
+	line-height: 1em ;
 }
