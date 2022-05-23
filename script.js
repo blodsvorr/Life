@@ -183,7 +183,7 @@ var stepOfLife = function ( board ) {
 
 // Main Function : GAME OF LIFE
 function gameOfLife () {
-	const zState = zStateGOLmatrix ( 256, 256 , 0.33 ) ;
+	const zState = zStateGOLmatrix ( 256, 256 , 0.5 ) ;
 	let currState = zState ;
 	let startStateStr = buildStateStr ( zState ) ;
 	let stateStr ;
