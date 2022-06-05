@@ -141,7 +141,7 @@ function buildStateStr ( grid ) {
 	for ( var y in grid ) {
 		for ( var x in grid[y] ) {
 			if ( grid[y][x] === 1)
-				{ str += 'O' ;}
+				{ str += '$' ;}
 			else
 				{ str += '&nbsp;' ;}
 		}
