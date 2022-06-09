@@ -6,6 +6,7 @@ body {
 	font-family: monospace ;
 	background-color: transparent ;
 	color: #9c9aff ;
-	font-size: 6pt ;
-	line-height: 1em ;
+	font-size: 8pt ;
+	line-height: 8pt ;
+	transform: scale(1,0.8) ;
 }
