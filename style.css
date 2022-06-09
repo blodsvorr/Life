@@ -10,3 +10,12 @@ body {
 	line-height: 8pt ;
 	transform: scale(1,0.8) ;
 }
+
+p {
+	font-family: monospace ;
+	background-color: transparent ;
+	color: #9c9aff ;
+	font-size: 8pt ;
+	line-height: 8pt ;
+	transform: scale(1,0.8) ;
+}
