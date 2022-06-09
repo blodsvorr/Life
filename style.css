@@ -8,9 +8,7 @@ body {
 }
 
 #windowOfLife {
-	position: absolute ;
-	top: 0 ;
-	left: 0 ;
+	display: block ;
 	font-family: monospace ;
 	background-color: transparent ;
 	color: #9c9aff ;
